@@ -72,13 +72,16 @@ button {
 button:hover {
     background-color: whitesmoke;
     color:black;
+    cursor:pointer;
 }
 
 .card_box:hover {
-
+    cursor:pointer;
     border-color:whitesmoke;
     color:whitesmoke;
 }
+
+
 
 
 
