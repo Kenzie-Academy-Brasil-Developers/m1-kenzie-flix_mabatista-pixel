@@ -33,8 +33,7 @@ body {
 .card_box {
     list-style:none;
     width:20%;
-    height:170px;
-    border:2px round;  
+    height:170px; 
     padding:10px;
     color:grey;
     text-align:center;
